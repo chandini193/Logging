@@ -1,0 +1,42 @@
+2020-02-26 16:49:01 INFO  App:21 - Choose option:
+2020-02-26 16:49:01 INFO  App:22 - 1.Calculate Interest  2.Estimate house construction cost
+2020-02-26 16:49:01 INFO  App:23 - Enter option:
+2020-02-26 16:49:07 INFO  App:27 - Enter the principal amount:
+2020-02-26 16:49:09 INFO  App:29 - Enter the annual rate of interest(in %):
+2020-02-26 16:49:11 INFO  App:31 - Enter the number of periods(time in years):
+2020-02-26 16:49:12 INFO  App:33 - 1.Simple Interest 2. Compound Interest
+2020-02-26 16:49:12 INFO  App:34 - Enter option:
+2020-02-26 16:49:14 INFO  App:37 - Simple Interest in rupess = 360.0
+2020-02-26 16:49:14 INFO  App:59 - Do you want to continue[Y or N]? : 
+2020-02-26 16:49:52 INFO  App:21 - Choose option:
+2020-02-26 16:49:52 INFO  App:22 - 1.Calculate Interest  2.Estimate house construction cost
+2020-02-26 16:49:52 INFO  App:23 - Enter option:
+2020-02-26 16:49:54 INFO  App:27 - Enter the principal amount:
+2020-02-26 16:49:57 INFO  App:29 - Enter the annual rate of interest(in %):
+2020-02-26 16:49:58 INFO  App:31 - Enter the number of periods(time in years):
+2020-02-26 16:50:00 INFO  App:33 - 1.Simple Interest 2. Compound Interest
+2020-02-26 16:50:00 INFO  App:34 - Enter option:
+2020-02-26 16:50:03 INFO  App:37 - Simple Interest in rupess = 360.0
+2020-02-26 16:50:03 INFO  App:59 - Do you want to continue[Y or N]? : 
+2020-02-26 16:50:05 INFO  App:21 - Choose option:
+2020-02-26 16:50:05 INFO  App:22 - 1.Calculate Interest  2.Estimate house construction cost
+2020-02-26 16:50:05 INFO  App:23 - Enter option:
+2020-02-26 16:50:11 INFO  App:27 - Enter the principal amount:
+2020-02-26 16:50:14 INFO  App:29 - Enter the annual rate of interest(in %):
+2020-02-26 16:50:16 INFO  App:31 - Enter the number of periods(time in years):
+2020-02-26 16:50:18 INFO  App:33 - 1.Simple Interest 2. Compound Interest
+2020-02-26 16:50:18 INFO  App:34 - Enter option:
+2020-02-26 16:50:19 INFO  App:40 - Compound Interest in rupees = 412.69965521294665
+2020-02-26 16:50:19 INFO  App:59 - Do you want to continue[Y or N]? : 
+2020-02-26 16:50:21 INFO  App:21 - Choose option:
+2020-02-26 16:50:21 INFO  App:22 - 1.Calculate Interest  2.Estimate house construction cost
+2020-02-26 16:50:21 INFO  App:23 - Enter option:
+2020-02-26 16:50:23 INFO  App:48 - Choose material standarad
+2020-02-26 16:50:23 INFO  App:49 - 1.Standard
+2.Above Standard
+3.High Standard
+4.High Standard + Fully Automated
+2020-02-26 16:50:23 INFO  App:50 - Enter choice:
+2020-02-26 16:50:26 INFO  App:52 - Enter total area of house(in sqft):
+2020-02-26 16:50:29 INFO  App:54 - Construcion cost = 180000
+2020-02-26 16:50:29 INFO  App:59 - Do you want to continue[Y or N]? : 
